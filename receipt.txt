@@ -1,0 +1,24 @@
+
+Receipt:
+Customer: Rafly
+Cellphone: 2774858506
+Order: 1,2,3
+Total: Rp9000,00
+
+Receipt:
+Customer: Rafly
+Cellphone: 08810247696
+Order: 1,1,2,3
+Total: Rp105000.0
+
+Receipt:
+Customer: Rafly
+Cellphone: 2930293019031
+Order: 1,1,2,2
+Total: Rp100.0
+
+Receipt:
+Customer: rafly
+Cellphone: 2322131231231
+Order: 1,1,1
+Total: Rp75.0
